@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="names">
+        <item>Car</item>
+        <item>House</item>
+        <item>Spider</item>
+        <item>Gun</item>
+        <item>Boat</item>
+        <item>Bird</item>
+        <item>Elephant</item>
+        <item>Flower</item>
+        <item>Frog</item>
+        <item>Horse</item>
+        <item>Lion</item>
+        <item>Micky Mouse</item>
+        <item>Dog</item>
+        <item>Turtle</item>
+        <item>Princess</item>
+    </string-array>
+    
+    <string-array name="descriptions">
+        <item>13 Steps</item>
+        <item>16 Steps</item>
+        <item>14 Steps</item>
+        <item>10 Steps</item>
+        <item>13 Steps</item>
+        <item>11 Steps</item>
+        <item>22 Steps(Hard)</item>
+        <item>10 Steps</item>
+        <item>16 Steps</item>
+        <item>15 Steps</item>
+        <item>13 Steps</item>
+        <item>16 Steps</item>
+        <item>17 Steps</item>
+        <item>25 Steps(Hard)</item>
+        <item>13 Steps</item>
+    </string-array>
+
+</resources>

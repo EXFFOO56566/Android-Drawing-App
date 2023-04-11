@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android Drawing</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="img_cont">Des</string>
+    <string name="Save">Save</string>
+    <string name="Share">Share</string>
+    <string name="About">About</string>
+    <string name="RateApp">Rate App</string>
+    
+     <string name="admob_publisher_id">ca-app-pub-8356404931736973/7933562793</string> <!-- Change AdMob Id -->
+     <string name="admob_publisher_interstitial_id">ca-app-pub-8356404931736973/6456829597</string> <!-- Change AdMob Id -->
+    
+
+</resources>
